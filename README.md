@@ -12,7 +12,8 @@ The source file (`triangle-opengl.c`) could be found in [GLFW/examples](https://
 The project relies on a few dependencies as explained in the guide:
 1. [GLFW](https://github.com/glfw/glfw) 
 2. [glad](https://github.com/Dav1dde/glad) extension-loader-library
-3. [linmath](https://github.com/datenwolf/linmath.h) 
+3. [linmath](https://github.com/datenwolf/linmath.h)
+
 Which are all included in the [Dependencies directory](https://github.com/Treata11/GLFW-Guide/tree/main/Dependencies)
 
 ## Build with CMake
